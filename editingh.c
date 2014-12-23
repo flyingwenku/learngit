@@ -8,5 +8,6 @@ int main()
   printf("%d\n",strlen(str));
   printf("%s\n",strstr(fredwu));
   printf("helloworld\n");
+  printf("html");
   return 0;
 }
