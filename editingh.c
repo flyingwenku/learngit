@@ -9,5 +9,6 @@ int main()
   printf("%s\n",strstr(fredwu));
   printf("helloworld\n");
   printf("html");
+  
   return 0;
 }
